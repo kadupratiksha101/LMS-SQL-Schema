@@ -11,7 +11,7 @@ The goal is to practice database design, ER modeling, and CRUD operations while 
 
 👉 (Add your ER Diagram here – export from dbdiagram.io, draw.io, or Lucidchart)
 
-![ER Diagram](er-diagram.png)
+![ER Diagram]([er-diagram.png](https://github.com/kadupratiksha101/LMS-SQL-Schema/blob/main/LMS%20RE-ER.mwb))
 
 
 The ER diagram shows the relationships between entities like:
@@ -95,4 +95,5 @@ Contributions are welcome! Feel free to fork this repo and enhance the schema wi
 
 👩‍💻 Your Name
 🔗 LinkedIn
+
  | GitHub
